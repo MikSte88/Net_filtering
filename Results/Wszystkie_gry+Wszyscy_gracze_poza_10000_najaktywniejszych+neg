@@ -1,0 +1,11 @@
+{
+  "liczba_wezlow": 28141,
+  "liczba_krawedzi": 210027,
+  "sredni_stopien_wezla": 14.92676166447532,
+  "gestosc": 0.00053044639887972,
+  "czas_pracy": {
+    "godziny": 0,
+    "minuty": 0,
+    "sekundy": 7
+  }
+}
